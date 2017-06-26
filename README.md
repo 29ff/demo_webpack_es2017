@@ -1,1 +1,1 @@
-# Used Webpack for ES7
+# Demo using Webpack for ES7
