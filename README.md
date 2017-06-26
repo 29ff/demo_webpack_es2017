@@ -1,1 +1,1 @@
-# WEBPACK FOR ES2017
+# Used Webpack for ES7
